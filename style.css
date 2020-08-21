@@ -1,0 +1,55 @@
+.container{
+    margin-top: 50px;
+}
+.logo{
+    width: 100px;
+}
+.caosul-bg{
+    
+    padding: 15px;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    display: none;
+}
+.carousel-indicators li{
+    background-color: gray;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+}
+.carousel-indicators li:hover {
+    width: 20px;
+    background-color:#ffc107;
+}
+.slide-bg{
+        
+        background-image: url("image/bg-1.png");
+}
+.producthed a{
+    font-size: Medium;
+    font-weight: bold ;
+    color:#ffc107;
+}
+.card{
+    text-align: center;
+    border: none;
+    
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.rounded-pill{
+    width: 80px;
+    height: 5px;
+    margin-left: 30px;
+    background-image: linear-gradient(to left, yellow, #ffc107);
+    
+
+}
+.row{
+  height: 50%;
+  
+
+}
